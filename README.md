@@ -4,4 +4,4 @@ Sequentially animating an SVG cube with `anime.js` by drawing a 3D cube one squa
 
 ## Tip Links
 
-[3D Cube Animation with `anime.js` Library](https://front.tips/drawing-3d-cube-using-anime-js-library)
+[3D Cube Animation with anime Library](https://front.tips/drawing-3d-cube-using-anime-js-library)
